@@ -1,3 +1,6 @@
+
+![Walrus wallpaper](/pictures/walrus_wallpaper.png)
+
 Here’s a nice palette based on my walrus image:
 
 **Primary Colors:**
